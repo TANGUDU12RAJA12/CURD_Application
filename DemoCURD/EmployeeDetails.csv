@@ -1,0 +1,11 @@
+EmpId,Name,Email,DeptName,DeptLocation,DesignationID,DesignationName,BasicSalary,Netsalary
+1,John Doe,john.doe@email.com,IT,Bangalore,1,Software Developer,50000.00,55000.00
+2,Jane Smith,jane.smith@email.com,IT,Bangalore,2,Senior Developer,55000.00,61500.00
+3,Mike Johnson,mike.j@email.com,HR,Mumbai,1,Software Developer,60000.00,69000.00
+4,Sarah Wilson,sarah.w@email.com,HR,Mumbai,3,HR Manager,45000.00,48500.00
+5,David Brown,david.brown@email.com,Finance,Delhi,2,Senior Developer,70000.00,83000.00
+6,Emily Davis,emily.d@email.com,IT,Bangalore,3,HR Manager,48000.00,52200.00
+7,Robert Taylor,robert.t@email.com,Finance,Delhi,1,Software Developer,75000.00,92500.00
+8,Lisa Anderson,lisa.a@email.com,HR,Mumbai,2,Senior Developer,42000.00,44800.00
+9,James White,james.w@email.com,IT,Bangalore,1,Software Developer,52000.00,57800.00
+10,Anna Martinez,anna.m@email.com,Finance,Delhi,3,HR Manager,65000.00,76500.00
